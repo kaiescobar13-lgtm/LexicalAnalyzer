@@ -55,3 +55,5 @@ The language supports basic integer arithmetic, relational logic, console I/O, v
 ### 1. Compilation
 ```bash
 javac *.java
+
+java testParser program.txt
